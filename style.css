@@ -1,0 +1,28 @@
+.flexbox-container{
+  display: flex;
+  margin: 2%;
+  flex-direction: column;
+}
+
+img#pitch {
+    height: 40%;
+    width: 66%;
+}
+
+.bar {
+    height: 6px;
+    background-color: #1a1a1f;
+    clear: both;
+}
+.name {
+    margin-bottom: 1%;
+}
+
+b {
+    font-size: 20pt;
+}
+
+.header{
+  margin-top: 1%;
+  margin-left: 2%;
+}
